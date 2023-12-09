@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Chair
   m_EditorClassIdentifier: 
   upgradeName: Chair
-  upgradeLevel: 2
+  upgradeLevel: 1
   maxLevel: 0
   upgradeCost: 1000
-  costMultiplier: 0
+  costMultiplier: 1
