@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d940ec0cab5f474f941fa0b1f0e7fca, type: 3}
+  m_Name: IceCream
+  m_EditorClassIdentifier: 
+  foodName: IceCream
+  foodModel: {fileID: 6290050685965900453, guid: 22f70e163a75b0643b7e1dfc8599f1a5, type: 3}
+  foodLevel: 4
+  foodFee: 80
